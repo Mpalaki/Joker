@@ -17,10 +17,9 @@ public class Joker {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-//        System.out.println(Deltio.factorial(20));
-//        Player.createPlayer();
-//        Klirosi.kaneKlirosi();
-          System.out.println("2"+(10+2));
+        Player.createPlayer();
+        Klirosi.kaneKlirosi();
+      
         
     }
 
